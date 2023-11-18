@@ -2,7 +2,7 @@
 
 **Step 4**
 ![Image](Lab4 Step4.png)
-Keys pressed: I logged into ieng6 by searching through my command history with *<control-R>*, then typed *<s>* to search for and run *ssh cs15lfa23ec@ieng6.ucsd.edu*
+Keys pressed: I logged into ieng6 by searching through my command history with *|<control-R|>*, then typed *<s>* to search for and run *ssh cs15lfa23ec@ieng6.ucsd.edu*
 
 
 **Step 5**
