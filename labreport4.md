@@ -21,7 +21,9 @@ Keys pressed: I typed *vim ListExamples.java* to edit the code file to fix the f
 
 
 **Step 8**
+
 ![Image](Lab4 Step8.png)
+
 Keys pressed: *\<up\> \<up\> \<return\>* The *bash test.sh* command was 2 in history so I used the up arrow to access it and run it like in step 6.
 
 
